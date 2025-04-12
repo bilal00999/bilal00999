@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Bilal Ahmed
 
-<!--
-**bilal00999/bilal00999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS in Computer Science | 🖥️ Web Developer | 🇵🇰 Based in Pakistan
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves building beautiful and functional websites. I enjoy working with **HTML, CSS, JavaScript, Java, and SQL**, and I'm constantly learning new technologies to grow as a full stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 My Goals:
+- Build impactful projects
+- Contribute to open source
+- Work with top tech companies like Google or Tesla
+
+🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/bilal-ahmed-b70339292)
+- 📧 bilalahmed20051@gmail.com
+
+<!-- GitHub Stats (Optional) -->
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalahmed2005&show_icons=true&theme=radical)
