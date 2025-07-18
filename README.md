@@ -7,7 +7,7 @@ I'm a passionate developer who loves building beautiful and functional websites.
 🌟 My Goals:
 - Build impactful projects
 - Contribute to open source
-- Work with top tech companies like Google or Tesla
+- Work with top tech companies
 
 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/bilal-ahmed-b70339292)
