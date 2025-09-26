@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bilal Ahmed
+# 👋 Hi there! I'm Bilal Ahmed
 
 ### 💻 Web Developer | Aspiring Full Stack Developer | BS in Computer Science
 
@@ -6,13 +6,21 @@ I'm a passionate developer based in **Pakistan** who loves crafting beautiful, f
 
 ---
 
-## 🚀 My GitHub Stats
+## 🔥 My Weekly Development Activity
 
-Here are some metrics that showcase my activity and growth:
+I believe in continuous learning and consistent coding. Check out my activity graph for the last 7 days!
 
-| Activity & Stats | Top Languages | Streak & Commits |
+[![Bilal's Development Activity](https://github-readme-activity-graph.vercel.app/graph?username=bilalahmed2005&bg_color=1F222E&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true)](https://github.com/bilalahmed2005)
+
+---
+
+## 🚀 GitHub Stats & Milestones
+
+These cards track my overall progress, contributions, and top languages. I'm always aiming for a higher rank!
+
+| Overall Stats | Top Languages | Total Commits & Issues |
 | :---: | :---: | :---: |
-| [![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalahmed2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/bilalahmed2005) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmed2005&layout=compact&theme=radical&hide_border=true)](https://github.com/bilalahmed2005) | [![GitHub Streak](https://github-readme-streak-stats.max-cst.com/user-app-bilalahmed2005?theme=radical&hide_border=true)](https://git.io/streak-stats) |
+| [![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalahmed2005&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/bilalahmed2005) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahmed2005&layout=compact&theme=radical&hide_border=true)](https://github.com/bilalahmed2005) | [![Total Commits & Issues](https://github-contributor-stats.vercel.app/api?username=bilalahmed2005&limit=5&theme=radical&hide_border=true&title_color=f8d866)](https://github.com/bilalahmed2005) |
 
 ---
 
@@ -26,3 +34,8 @@ Here are some metrics that showcase my activity and growth:
 ### 🔗 Connect with me:
 - **LinkedIn:** [Bilal Ahmed](https://www.linkedin.com/in/bilal-ahmed-b70339292)
 - **Email:** 📧 bilalahmed20051@gmail.com
+
+---
+
+### Profile Views
+**Visitors:** ![Profile Views](https://komarev.com/ghpvc/?username=bilalahmed2005&color=F8D866)
