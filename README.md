@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Bilal Ahmed
 
-### 💻 Web Developer | Aspiring Full Stack Developer | BS in Computer Science
+### 💻 Front End Developer | Aspiring Full Stack Developer | BS in Computer Science
 
 I'm a passionate developer based in **Pakistan** who loves crafting beautiful, functional, and efficient websites. I specialize in the fundamentals: **HTML, CSS, and JavaScript**, and I have a solid foundation in **Java and SQL**. I'm constantly learning new technologies with the goal of becoming a full stack developer.
 
@@ -49,10 +49,15 @@ These cards track my overall progress, contributions, and top languages. I'm alw
 - Secure a role with a top tech company.
 
 ### 🔗 Connect with me:
-- **LinkedIn:** [Bilal Ahmed](https://www.linkedin.com/in/bilal-ahmed-b70339292)
-- **Email:** 📧 bilalahmed20051@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ahmed-b70339292)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalahmed20051@gmail.com)
 
 ---
 
 ### Profile Views
-**Visitors:** ![Profile Views](https://komarev.com/ghpvc/?username=bilal00999&color=F8D866)
+**Visitors:** ![Profile Views](https://komarev.com/ghpvc/?username=bilal00999&color=F8D866)  
+
+---
+
+## 💡 Dev Quote
+*"First, solve the problem. Then, write the code."*  
