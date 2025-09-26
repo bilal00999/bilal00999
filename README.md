@@ -63,11 +63,8 @@ These cards track my overall progress, contributions, languages, and streaks.
 
 ---
 
-<p align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 12px; color: #ffffff; font-size: 18px; font-style: italic;">
-  “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
-  <br><br>
-  <span style="font-weight: bold; font-size: 16px; color: #00ffcc;">— Bill Gates</span>
-</p>
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Learning%20to%20write%20programs%20stretches%20your%20mind%2C%20and%20helps%20you%20think%20better%2C%20creates%20a%20way%20of%20thinking%20about%20things%20that%20I%20think%20is%20helpful%20in%20all%20domains.&author=Bill%20Gates)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ---
 
