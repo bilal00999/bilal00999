@@ -58,19 +58,19 @@ These cards track my overall progress, contributions, languages, and streaks.
 
 ---
 
-### Profile Views
-**Visitors:** ![Profile Views](https://komarev.com/ghpvc/?username=bilal00999&color=F8D866)
-
----
-
 ## 💡 Dev Quote
 ---
 
-<p align="center" style="background-color:#1a1a1a; padding:20px; border-radius:10px; color:#ffffff; font-size:16px;">
-  <em>“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”</em>  
+---
+
+<p align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 12px; color: #ffffff; font-size: 18px; font-style: italic;">
+  “Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”
   <br><br>
-  <strong>— Bill Gates</strong>
+  <span style="font-weight: bold; font-size: 16px; color: #00ffcc;">— Bill Gates</span>
 </p>
+
+---
+
 
 ---
 
