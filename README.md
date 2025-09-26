@@ -64,6 +64,13 @@ These cards track my overall progress, contributions, languages, and streaks.
 ---
 
 ## 💡 Dev Quote
-<div align="center" style="background-color:#1F222E; color:#F8D866; padding:15px; border-radius:10px; font-size:16px; font-style:italic;">
-“Code is like humor. When you have to explain it, it’s bad.”
-</div>
+---
+
+<p align="center" style="background-color:#1a1a1a; padding:20px; border-radius:10px; color:#ffffff; font-size:16px;">
+  <em>“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”</em>  
+  <br><br>
+  <strong>— Bill Gates</strong>
+</p>
+
+---
+
