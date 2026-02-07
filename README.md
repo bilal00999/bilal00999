@@ -1,12 +1,12 @@
 # 👋 Hi there! I'm Bilal Ahmed
 
-### 💻 Front End Developer | Aspiring Full Stack Developer | BS in Computer Science
+###  Front End Developer | Aspiring Full Stack Developer | BS in Computer Science
 
 I'm a passionate developer based in **Pakistan** who loves crafting beautiful, functional, and efficient websites. I specialize in the fundamentals: **HTML, CSS, and JavaScript**, and I have a solid foundation in **Java and SQL**. I'm constantly learning new technologies with the goal of becoming a full stack developer.
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 I am always expanding my knowledge to build powerful web applications.
 
@@ -23,7 +23,7 @@ I am always expanding my knowledge to build powerful web applications.
 
 ---
 
-## 🔥 My Weekly Development Activity
+##  My Weekly Development Activity
 
 I believe in continuous learning and consistent coding. Check out my activity graph for the last 7 days!
 
@@ -31,7 +31,7 @@ I believe in continuous learning and consistent coding. Check out my activity gr
 
 ---
 
-## 🚀 GitHub Stats & Milestones
+##  GitHub Stats & Milestones
 
 These cards track my overall progress, contributions, languages, and streaks.
 
@@ -45,18 +45,18 @@ These cards track my overall progress, contributions, languages, and streaks.
 
 ---
 
-## 🌟 Goals & Connect
+##  Goals & Connect
 
 ### My Goals:
 - Build impactful, real-world projects.
 - Actively contribute to open-source communities.
 - Secure a role with a top tech company.
 
-### 🔗 Connect with me:
+###  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ahmed-b70339292)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=bilalahmed20051@gmail.com)
 
-## 💡 Dev Quote
+##  Dev Quote
 ---
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Learning%20to%20write%20programs%20stretches%20your%20mind%2C%20and%20helps%20you%20think%20better%2C%20creates%20a%20way%20of%20thinking%20about%20things%20that%20I%20think%20is%20helpful%20in%20all%20domains.&author=Bill%20Gates)](https://github.com/piyushsuthar/github-readme-quotes)
