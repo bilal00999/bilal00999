@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Bilal Ahmed
 
-###  Front End Developer | Aspiring Full Stack Developer | BS in Computer Science
+###  Front End Developer | Full Stack Developer | BS in Computer Science
 
-I'm a passionate developer based in **Pakistan** who loves crafting beautiful, functional, and efficient websites. I specialize in the fundamentals: **HTML, CSS, and JavaScript**, and I have a solid foundation in **Java and SQL**. I'm constantly learning new technologies with the goal of becoming a full stack developer.
+I'm a passionate developer based in **Pakistan** who loves crafting beautiful, functional, and efficient websites. I specialize in the fundamentals: **HTML, CSS, JavaScript, Tailwind CSS, Bootstrap**, and I have a solid foundation in **Java and SQL**. I'm constantly learning new technologies with the goal of becoming a full stack developer.
 
 ---
 
@@ -13,7 +13,7 @@ I am always expanding my knowledge to build powerful web applications.
 ### Skills & Frameworks
 | Category | Technologies |
 | :---: | :---: |
-| **Frontend** | HTML5, CSS3, JavaScript, **React**, **Tailwind CSS** |
+| **Frontend** | HTML5, CSS3, JavaScript, **React**, **Tailwind CSS**, **Bootstrap** |
 | **Backend/DB** | **Java**, **SQL** |
 | **Version Control** | **Git**, **GitHub** |
 
