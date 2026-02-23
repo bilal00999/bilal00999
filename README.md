@@ -35,10 +35,6 @@ I believe in continuous learning and consistent coding. Check out my activity gr
 
 These cards track my overall progress, contributions, languages, and streaks.
 
-| Overall Stats | Top Languages | Total Commits & Issues |
-| :---: | :---: | :---: |
-| [![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal00999&show_icons=true&theme=radical&hide_border=true&rank_icon=github)](https://github.com/bilal00999) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal00999&layout=compact&theme=radical&hide_border=true)](https://github.com/bilal00999) | [![Total Commits & Issues](https://github-contributor-stats.vercel.app/api?username=bilal00999&limit=5&theme=radical&hide_border=true&title_color=f8d866)](https://github.com/bilal00999) |
-
 | Current Streak | Longest Streak |
 | :---: | :---: |
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=bilal00999&theme=radical&hide_border=true)](https://git.io/streak-stats) | [![GitHub Longest Streak](https://streak-stats.demolab.com/?user=bilal00999&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) |
