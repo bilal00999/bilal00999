@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Bilal Ahmed
 ### Full-Stack Web Developer | BS in Computer Science
 
-I'm a developer based in **Pakistan** focused on building modern, scalable, and user-friendly web applications. I have hands-on experience in both frontend and backend development, with practical exposure to AI integrations and automation workflows.
+I'm a developer focused on building modern, scalable, and user-friendly web applications. I have hands-on experience in both frontend and backend development, with practical exposure to AI integrations and automation workflows.
 
 ---
 
@@ -51,4 +51,4 @@ I'm a developer based in **Pakistan** focused on building modern, scalable, and 
 
 ## 💬 Dev Quote
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Learning%20to%20write%20programs%20stretches%20your%20mind%2C%20and%20helps%20you%20think%20better%2C%20creates%20a%20way%20of%20thinking%20about%20things%20that%20I%20think%20is%20helpful%20in%20all%20domains.&author=Bill%20Gates)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
