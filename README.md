@@ -44,7 +44,7 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ahmed-b70339292)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-website-gamma-wine.vercel.app/](https://personal-portfolio-three-ivory-64.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-three-ivory-64.vercel.app/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=bilalahmed20051@gmail.com)
 
 ---
