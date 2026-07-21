@@ -10,7 +10,7 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
 | Category | Technologies |
 | :---: | :---: |
 | **Frontend** | HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, Laravel, PHP |
+| **Backend** | Node.js, Express.js, Laravel, PHP, SpringBoot |
 | **Databases** | MongoDB, MySQL, SQLite |
 | **Tools & Platforms** | Git, GitHub, n8n, Vercel, Supabase |
 | **Languages** | JavaScript, PHP, Java, SQL, C# |
