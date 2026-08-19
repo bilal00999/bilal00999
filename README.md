@@ -27,14 +27,6 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
 
 ---
 
-## 📊 GitHub Stats & Milestones
-
-| Current Streak | Longest Streak |
-| :---: | :---: |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=bilal00999&theme=radical&hide_border=true)](https://git.io/streak-stats) | [![GitHub Longest Streak](https://streak-stats.demolab.com/?user=bilal00999&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) |
-
----
-
 ## 🎯 Goals & Connect
 
 ### My Goals:
