@@ -5,76 +5,119 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
 
 ---
 
-Tech Stack
-Languages
+## 🛠️ Tech Stack
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,js,sql,html,css" /> </p>
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
 
-Frontend
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" /> </p>
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
-Backend
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=spring" /> </p>
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase,docker" />
+</p>
 
-Databases
+### Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=n8n" />
+</p>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
+---
 
-Tools & Platforms
+## 📊 GitHub Statistics
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilal00999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal00999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</p>
 
-Automation
+## 🔥 GitHub Streak
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=n8n" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal00999&theme=tokyonight&hide_border=true" />
+</p>
 
-GitHub Statistics
+## 📈 Contribution Graph
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bilal00999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal00999&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal00999&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="GitHub Contribution Activity" />
+</p>
 
-GitHub Streak
+## 🐍 Contribution Snake
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=bilal00999&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bilal00999/bilal00999/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-Contribution Wave
+---
 
-<p align="center"> <img src="https://raw.githubusercontent.com/bilal00999/bilal00999/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Wave" /> </p>
+## 🚀 Featured Projects
 
-Contribution Activity
+<p align="center">
+  <a href="https://github.com/bilal00999/HireFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00999&repo=HireFlow&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/bilal00999/BidArena">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00999&repo=BidArena&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal00999&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" /> </p>
+---
 
-Commit Activity
+## 🎯 Goals
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bilal00999&show=reviews,discussions_started,discussions_answered,prs_merged&theme=tokyonight&hide_border=true" alt="GitHub Commit Activity" /> </p>
+- Build impactful real-world applications
+- Develop scalable and production-ready software
+- Contribute to open-source projects
+- Build AI-powered applications and automation workflows
+- Improve my software engineering and system design skills
+- Gain professional experience in software development
+- Work with a strong technology company
 
-Featured Projects
+---
 
-<p align="center"> <a href="https://github.com/bilal00999"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00999&repo=HireFlow&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/bilal00999"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00999&repo=BidArena&theme=tokyonight&hide_border=true" /> </a> </p>
+## 🤝 Connect with me
 
-Goals
-Build impactful real-world applications.
-Develop scalable and production-ready software.
-Contribute to open-source projects.
-Build AI-powered applications and automation workflows.
-Improve my software engineering and system design skills.
-Gain professional experience in software development.
-Work with a strong technology company.
-GitHub Profile
-
-<p align="center"> <a href="https://github.com/bilal00999"> <img src="https://img.shields.io/badge/GitHub-bilal00999-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p>
-
-### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-ahmed-b70339292)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-three-ivory-64.vercel.app/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=bilalahmed20051@gmail.com)
+<p align="center">
+  <a href="https://github.com/bilal00999">
+    <img src="https://img.shields.io/badge/GitHub-bilal00999-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bilal-ahmed-b70339292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://personal-portfolio-three-ivory-64.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:bilalahmed20051@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 💬 Dev Quote
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
