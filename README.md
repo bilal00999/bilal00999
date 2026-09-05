@@ -67,24 +67,6 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
   <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=bilal00999&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="GitHub Contribution Activity" />
 </p>
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bilal00999/bilal00999/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<!--
-  This image only renders once you add the "snk" GitHub Action workflow to your
-  bilal00999/bilal00999 repo (it generates the SVG on an "output" branch).
-  Setup guide: https://github.com/Platane/snk
--->
-
-
----
-
-## GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=bilal00999&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </p> <!-- Want the animated Contribution Snake instead? It needs a one-time GitHub Actions workflow added to your bilal00999/bilal00999 repo (it generates the SVG itself and there's no public URL for it). Setup guide: https://github.com/Platane/snk -->
-
 ## Featured Projects
 <p align="center"> <a href="https://github.com/bilal00999/HireFlow"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=bilal00999&repo=HireFlow&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/bilal00999/BidArena"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=bilal00999&repo=BidArena&theme=tokyonight&hide_border=true" /> </a> </p>
 
