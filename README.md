@@ -46,14 +46,14 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilal00999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal00999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bilal00999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bilal00999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal00999&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=bilal00999&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Contribution Graph
@@ -68,16 +68,23 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
   <img src="https://raw.githubusercontent.com/bilal00999/bilal00999/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
+<!--
+  This image only renders once you add the "snk" GitHub Action workflow to your
+  bilal00999/bilal00999 repo (it generates the SVG on an "output" branch).
+  Setup guide: https://github.com/Platane/snk
+-->
+
+
 ---
 
 ## Featured Projects
 
 <p align="center">
   <a href="https://github.com/bilal00999/HireFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00999&repo=HireFlow&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=bilal00999&repo=HireFlow&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/bilal00999/BidArena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00999&repo=BidArena&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=bilal00999&repo=BidArena&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
