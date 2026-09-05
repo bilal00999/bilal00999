@@ -33,12 +33,17 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
 
 **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,supabase,docker,maven" />
+</p>
+
+**Messaging & Caching**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka,redis" />
 </p>
 
 **Automation**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=n8n" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
@@ -59,7 +64,7 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal00999&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="GitHub Contribution Activity" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=bilal00999&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="GitHub Contribution Activity" />
 </p>
 
 ## Contribution Snake
