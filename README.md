@@ -55,7 +55,7 @@ I'm a developer focused on building modern, scalable, and user-friendly web appl
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal00999&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="GitHub Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal00999&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff" alt="GitHub Contribution Activity" />
 </p>
 
 ## 🐍 Contribution Snake
